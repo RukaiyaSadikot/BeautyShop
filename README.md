@@ -206,8 +206,8 @@ Dependencies installed through `npm install`: `react`, `react-dom`, `bootstrap`,
 
 | | |
 |---|---|
-| 🔗 Live Demo | [Beautify Website](#) |
-| 🎥 Project Walkthrough | [Project Explanation](#) |
+| 🔗 Live Demo | [Beautify Website](https://nimble-quokka-8f2766.netlify.app/) |
+| 🎥 Project Walkthrough | [Project Explanation](https://drive.google.com/file/d/14qC0N2FZsogH2icyBxe1UuVZ1LQlxflU/view?usp=sharing) |
 
 ---
 
